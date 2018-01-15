@@ -1,4 +1,4 @@
-# battlebot_mounted_henault_charles_fu
+# BattleBot-Robot
 Team: Nathan Henault, Charles Van De Mark, and Guanxiong Fu 
 
 Final Project for ECEN 2440: Applications of Embedded Systems
